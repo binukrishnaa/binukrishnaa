@@ -8,7 +8,7 @@ Name: Binu Krishna
 
 GitHub Username: BINUKRISHNAA
 
-Contact: dosaaa006@gmail.com
+Contact: binukrishnax6@gmail.com
 
 🎨 Featured Projects
 
