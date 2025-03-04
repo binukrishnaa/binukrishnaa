@@ -48,7 +48,7 @@ Libraries & Frameworks: Pandas, NumPy, Matplotlib, Scikit-learn
 
 I’d love to collaborate on exciting projects or discuss opportunities in data science and analytics. Feel free to reach out!
 
-Email: dosaaa006@gmail.com
+Email: binukrishnax6@gmail.com
 
 GitHub: github.com/BINUKRISHNAA
 
